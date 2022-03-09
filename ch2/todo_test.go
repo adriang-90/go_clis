@@ -1,7 +1,7 @@
 package todo_test
 
 import (
-	todo "agasior90/go_clis/ch2"
+	"agasior90/go_clis/ch2/todo"
 	"os"
 	"testing"
 )
